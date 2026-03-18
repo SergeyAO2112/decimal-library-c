@@ -1,4 +1,3 @@
-# decimal-library-c
 # Decimal Library in C
 
 Implementation of a high-precision decimal arithmetic library in C.
